@@ -1,0 +1,23 @@
+h1{
+    background-color: darkcyan;
+    border-style: dotted;
+    text-align: center;
+    padding: 10px;
+    margin: 0% auto;
+    position: relative;
+}
+p{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aqua;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.bg{
+    background-image: url(uadgsuh.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a{
+    background-color: aliceblue;
+}
